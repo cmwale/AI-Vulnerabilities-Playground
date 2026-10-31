@@ -91,3 +91,5 @@ apps/**/.env
 
 # Archive folder for non-essential local markdown docs
 archive_md/
+
+node_modules/
